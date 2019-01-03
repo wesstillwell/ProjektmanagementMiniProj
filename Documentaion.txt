@@ -1,0 +1,22 @@
+Doc CD
+- Worked through tutorial of travis
+- Issues with installation of ngm packets, yet resolved
+- Introduction finished
+
+- Setup c# project
+- Changed the .yml config for .net no mono
+- Quick c# code that wouldnt compile and pushed
+- Moved .sln file to root of repository
+- A few git issues arrose
+- Build failed, just as expected
+- Fixed mistake
+- Build still failed online
+- Travis .yml file was not updating
+- Finaly updated with a delay (ca 5 mins or so)
+- Build successfull
+
+
+Summary:
+- might use travic for larger projects (e.g. mmp)
+- very not useful for small projects.
+- had to install ubuntu subsystem first before working on tutorial and had issues with ngm installation, took forever to fix
