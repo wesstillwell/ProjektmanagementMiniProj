@@ -12,14 +12,9 @@ namespace ownProj
         {
             Console.WriteLine("This buid should fail");
 
-            int i = 1;
+            int i = "a";
 
             Console.WriteLine(i);
-
-            if (i == 1)
-            {
-                Console.WriteLine("YAY");
-            }
         }
     }
 }
