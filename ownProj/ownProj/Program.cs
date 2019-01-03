@@ -10,6 +10,11 @@ namespace ownProj
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This buid should fail");
+
+            int i = "a";
+
+            Console.WriteLine(i);
         }
     }
 }
